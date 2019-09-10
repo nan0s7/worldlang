@@ -1,10 +1,22 @@
 day
 
+### Austronesian
+Javanese:
+- (from Sanskrit "dina") dina, dinten
+
 ### Dravidian
 Telugu:
 - /roːdʒu/ రోజు
 - (from Sanskrit "dina") dina+mu దినము
 - (from Sanskrit "divasa") divasamu దివసము
+
+### Japonic
+Japanese - /hi/ 日/ひ/hi
+
+### Koreanic
+Korean:
+- (from Sino-Korean "日") [iɭ] 일
+- [ha̠ɾu] 하루
 
 ## Proto-Indo-European
 ### Proto-Germanic
@@ -24,12 +36,12 @@ Vietnamese: ngày, hôm
 - Hồ Chí Minh City - [ŋaj˨˩], [hom˧˧]
 
 ## Proto-Kartvelian
-- Georgian: /dɣɛ/ დღე
+- Georgian - /dɣɛ/ დღე
 
 ## Proto-Semitic
 يوم
 
-Egyptian Arabic: /joːm/
+Egyptian Arabic - /joːm/
 
 ## Proto-Sino-Tibetan
 天, 日, 一天
@@ -43,3 +55,6 @@ Mandarin:
 - Standard - tiān(1), rì(4), yītiān(1,1)
 - Chengdu - tian(1), ri(2), ~
 - Dungan - тян (ti͡an, I), ~
+
+## Proto-Turkic
+Turkish - /ɡyn/, [ɟyn] gün
