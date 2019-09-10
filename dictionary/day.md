@@ -1,11 +1,16 @@
 day
 
-### Proto-Semitic
+## Proto-Indo-European
+### Proto-Indo-Aryan
+From Sanskrit: (Vedic) /d̪i.n̪ɐ́/, (Classical) /ˈd̪i.n̪ɐ/ दिन
+- Bengali - din দিন
+
+## Proto-Semitic
 يوم
 
 Egyptian Arabic: /joːm/
 
-### Proto-Sino-Tibetan
+## Proto-Sino-Tibetan
 天, 日, 一天
 
 Cantonese:
