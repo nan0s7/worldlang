@@ -1,11 +1,11 @@
 day
 
-## Proto-Semitic
+### Proto-Semitic
 يوم
 
 Egyptian Arabic: /joːm/
 
-## Proto-Sino-Tibetan
+### Proto-Sino-Tibetan
 天, 日, 一天
 
 Cantonese:
