@@ -1,9 +1,30 @@
 day
 
+### Dravidian
+Telugu:
+- /roːdʒu/ రోజు
+- (from Sanskrit "dina") dina+mu దినము
+- (from Sanskrit "divasa") divasamu దివసము
+
 ## Proto-Indo-European
+### Proto-Germanic
+- English - /deɪ/
+
 ### Proto-Indo-Aryan
 From Sanskrit: (Vedic) /d̪i.n̪ɐ́/, (Classical) /ˈd̪i.n̪ɐ/ दिन
 - Bengali - din দিন
+
+### Proto-Italic
+- Spanish - /ˈdia/, [ˈd̪ia] día
+
+## Proto-Mon-Khmer
+Vietnamese: ngày, hôm
+- Hà Nội - [ŋaj˨˩], [hom˧˧]
+- Huế - [ŋaj˦˩], [hom˧˧]
+- Hồ Chí Minh City - [ŋaj˨˩], [hom˧˧]
+
+## Proto-Kartvelian
+- Georgian: /dɣɛ/ დღე
 
 ## Proto-Semitic
 يوم
