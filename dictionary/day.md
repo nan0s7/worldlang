@@ -18,6 +18,10 @@ Korean:
 - (from Sino-Korean "日") [iɭ] 일
 - [ha̠ɾu] 하루
 
+### Uralic
+Hungarian:
+- (unknown origin) [ˈnɒp] nap
+
 ## Proto-Indo-European
 ### Proto-Germanic
 - English - /deɪ/
@@ -55,6 +59,9 @@ Mandarin:
 - Standard - tiān(1), rì(4), yītiān(1,1)
 - Chengdu - tian(1), ri(2), ~
 - Dungan - тян (ti͡an, I), ~
+
+## Proto-Tai
+Thai - /wan˧/ วัน
 
 ## Proto-Turkic
 Turkish - /ɡyn/, [ɟyn] gün
