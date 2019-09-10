@@ -1,6 +1,6 @@
 day
 
-# Proto-Semitic
+## Proto-Semitic
 Egyptian Arabic: /joːm/ يوم
 
 ## Proto-Sino-Tibetan
