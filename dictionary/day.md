@@ -1,9 +1,9 @@
 day
 
-##Proto-Semitic
+#Proto-Semitic#
 Egyptian Arabic: /joːm/ يوم
 
-##Proto-Sino-Tibetan
+##Proto-Sino-Tibetan##
 Cantonese: 天, 日, 一天
 - Guangzhou - tin(1), jat(6), ~
 - Jyutping - tin(1), jat(6), jattin(1,1)
