@@ -24,14 +24,27 @@ Hungarian:
 
 ## Proto-Indo-European
 ### Proto-Germanic
-- English - /deɪ/
+English - /deɪ/
 
 ### Proto-Indo-Aryan
 From Sanskrit: (Vedic) /d̪i.n̪ɐ́/, (Classical) /ˈd̪i.n̪ɐ/ दिन
 - Bengali - din দিন
+- Hindi - /d̪ɪn/ दिन
 
 ### Proto-Italic
-- Spanish - /ˈdia/, [ˈd̪ia] día
+Portuguese:
+- Portugal - /ˈdi.ɐ/
+- Brazil - /ˈd͡ʒi.a/
+- Carioca - /ˈd͡ʒi.ɐ/
+- Northeast Brazil - /ˈdi.ɐ/
+- Caipira - /ˈdi.a/
+
+Spanish - /ˈdia/, [ˈd̪ia] día
+
+### Proto-Slavic
+Russian:
+- [dʲenʲ] день
+- (су- and ты́кать) [ˈsutkʲɪ] су́+тки
 
 ## Proto-Mon-Khmer
 Vietnamese: ngày, hôm
@@ -40,7 +53,7 @@ Vietnamese: ngày, hôm
 - Hồ Chí Minh City - [ŋaj˨˩], [hom˧˧]
 
 ## Proto-Kartvelian
-- Georgian - /dɣɛ/ დღე
+Georgian - /dɣɛ/ დღე
 
 ## Proto-Semitic
 يوم
