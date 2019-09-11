@@ -23,13 +23,27 @@ Hungarian:
 - (unknown origin) [ˈnɒp] nap
 
 ## Proto-Indo-European
+### Latin
+French:
+- /ʒuʁ/ jour
+- (jour and -ée) /ʒuʁ.ne/ journée
+
 ### Proto-Germanic
 English - /deɪ/
 
+German:
+- Germany - /tɑːk/ 
+- Northern Germany - /tax/
+- Central Germany/Franconia/Lower Bavaria - /tɑːx/
+- Switzerland - /tɑːɡ̊/
+
 ### Proto-Indo-Aryan
-From Sanskrit: (Vedic) /d̪i.n̪ɐ́/, (Classical) /ˈd̪i.n̪ɐ/ दिन
+From Sanskrit: (Vedic) /d̪i.n̪ɐ́/, (Classical) /ˈd̪i.n̪ɐ/ दिन and divasa दिवस
 - Bengali - din দিন
+- Gujarati - divas દિવસ
 - Hindi - /d̪ɪn/ दिन
+- Marathi - divas दिवस
+- Punjabi - din ਦਿਨ
 
 ### Proto-Italic
 Portuguese:
@@ -61,17 +75,27 @@ Georgian - /dɣɛ/ დღე
 Egyptian Arabic - /joːm/
 
 ## Proto-Sino-Tibetan
-天, 日, 一天
+天, 日, 一天 (compound), 工 (only Min Dong and Min Nan)
 
 Cantonese:
-- Guangzhou - tin(1), jat(6), ~
-- Jyutping - tin(1), jat(6), jattin(1,1)
+- Guangzhou (Jyutping) - tin(1), jat(6), ~
 - Taishan - hen(1), ngit(5,1,4), ~
+
+Hakka:
+- Sixian (PFS) - ~, ngit, ~
+- Meixian (Guangdong) - ~, ngid(5), ~
 
 Mandarin:
 - Standard - tiān(1), rì(4), yītiān(1,1)
 - Chengdu - tian(1), ri(2), ~
 - Dungan - тян (ti͡an, I), ~
+
+Min Nan:
+- Hokkien (POj) - ~, jit / lit / git, ~, kong / kang / khang
+- Teochew (Peng'im) - ~, rig(8), ~, gang(1) / gong(1)
+
+Wu:
+- thi (T1), nqiq (T5) and zeq (T5), ~
 
 ## Proto-Tai
 Thai - /wan˧/ วัน
