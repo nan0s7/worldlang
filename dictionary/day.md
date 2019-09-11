@@ -1,17 +1,24 @@
 day
 
+### Afroasiatic
+Hausa - rānā
+
 ### Austronesian
 Javanese:
 - (from Sanskrit "dina") dina, dinten
 
 ### Dravidian
+Kannada - (from Sanskrit "dina") ದಿನ, dina
+
+Tamil - /n̪aːɭ/, [n̪ɑːɭ] நாள், nāḷ
+
 Telugu:
 - /roːdʒu/ రోజు
 - (from Sanskrit "dina") dina+mu దినము
 - (from Sanskrit "divasa") divasamu దివసము
 
 ### Japonic
-Japanese - /hi/ 日/ひ/hi
+Japanese - /hi/ 日, ひ, hi
 
 ### Koreanic
 Korean:
@@ -27,6 +34,10 @@ Hungarian:
 French:
 - /ʒuʁ/ jour
 - (jour and -ée) /ʒuʁ.ne/ journée
+
+Italian:
+- (archaic/astronomy) /di/, [d̪i] dì
+- /ˈd͡ʒorno/ giorno
 
 ### Proto-Germanic
 English - /deɪ/
@@ -44,6 +55,7 @@ From Sanskrit: (Vedic) /d̪i.n̪ɐ́/, (Classical) /ˈd̪i.n̪ɐ/ दिन and 
 - Hindi - /d̪ɪn/ दिन
 - Marathi - divas दिवस
 - Punjabi - din ਦਿਨ
+- Urdu - din دن
 
 ### Proto-Italic
 Portuguese:
