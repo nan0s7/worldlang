@@ -4,11 +4,11 @@ the - /ðə/, /ˈðiː/, /ðiː/
 - superlative or ordinal number indicator
 - before adjective, indicating all things described by such
 
-Middle English:
+##### Middle English:
 the, þe - /θeː/, (late:) /ðeː/, (unstressed:) /θɛ/, /θə/, /θ/
 - article
 
-Old English:
+##### Old English:
 þe - /θe/, /θeː/
 - particle (that, which, who)
 - article (demonstrative; the, he) [alt. of se]
@@ -21,16 +21,16 @@ se, sē - /se(ː)/
 sēo - /seːo̯/
 - fem. form of se
 
-Proto-Germanic:
+##### Proto-Germanic:
 sa - /sɑ/
 - determiner (that)
 
-Proto-Indo-European:
+##### Proto-Indo-European:
 só
 - pronoun (this, that)
 
-Related
-Old Norse:
+### Related
+##### Old Norse:
 sá
 - pronoun (this, that) [masc.]
 
@@ -38,7 +38,7 @@ sú [fem. sá]
 
 þat [neut. sá]
 
-Icelandic:
+##### Icelandic:
 sá - /sauː/
 - demonstrative (that, that one, he)
 
@@ -46,7 +46,7 @@ sú [fem. sá]
 
 það [neut. sá] - [θaːð]
 
-Faroese [obsolete]:
+##### Faroese [obsolete]:
 sá - /sɔɑː/
 - pronoun (demonstrative; that, that one, he)
 
@@ -54,11 +54,11 @@ sú [fem. sá] - /sʉuː/
 
 tað [neut. sá] - (stressed:) [ˈtɛa], (unstressed:) [ta]
 
-Dutch:
+##### Dutch:
 de - /də/
 - definite article
 
-Afrikaans:
+##### Afrikaans:
 die - /di/
 - definite article
 - pronoun (this one, these; that one, those; he, she, it, they)
@@ -66,18 +66,18 @@ die - /di/
 dié - /ˈdi/
 - determiner (this; these; that; those)
 
-German:
+##### German:
 der - /deːr/, (stressed:) [deːɐ̯], (unstressed:) [dɛɐ̯], [dɐ]
 - definite article
 - relative pronoun (who; that; which)
 - demonstrative pronoun (attributive & stressed: that, indicative: he, him, differential: the one, him)
 
-Gothic:
+##### Gothic:
 𐍃𐌰 (sa) - /sa/
 - pronoun (that, that one)
 - determiner (that, the)
 
-Yiddish:
+##### Yiddish:
 דער (der) - [dɛr]
 - determiner (the, this)
 - definite article
