@@ -1,3 +1,7 @@
+##### Final:
+de - /de/, /də/
+
+##### English:
 the - /ðə/, /ˈðiː/, /ðiː/
 - definite article
 - unique object indicator
