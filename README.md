@@ -7,6 +7,7 @@ It should:
 - be somewhat pleasing to speak and hear (although this is largely subjective)
 - make use of compound words
 - make use of synonyms for ideas that are similar but more complex? (TBD) [or perhaps compounds for specifity]
+- be conscious of words that sound similar but mean different things
 
 It shouldn't:
 - compromise on its ability to represent complex ideas and thoughts
