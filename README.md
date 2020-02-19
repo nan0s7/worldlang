@@ -6,7 +6,7 @@ It should:
 - have a proportional ease of understanding with the complexity of the topic
 - be somewhat pleasing to speak and hear (although this is largely subjective)
 - make use of compound words
-- make use of synonyms for ideas that are similar but more complex? (TBD)
+- make use of synonyms for ideas that are similar but more complex? (TBD) [or perhaps compounds for specifity]
 
 It shouldn't:
 - compromise on its ability to represent complex ideas and thoughts
